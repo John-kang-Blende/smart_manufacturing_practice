@@ -1,0 +1,2 @@
+# smart_manufacturing_practice
+關於智慧製造檢測，自動化生成數據與模擬瓶頸站
